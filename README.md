@@ -1,4 +1,4 @@
-# Algorithms and Data Structures (algostructdata)
+# Algorithms and Data Structures
 My laboratory works/assignments for Algorithms and Data Structures. This whole repository was coded with C and written in Indonesian language. Feel free to take inspiration from any of my assignments.
 
 # Architecture / Philosophies
