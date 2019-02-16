@@ -14,4 +14,4 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 If you have any ideas on how to improve the algorithms, feel free to submit a pull request.
 
 # License
-This repository has a MIT License (LICENSE.md).
+This repository has a MIT License.
