@@ -18,3 +18,7 @@ If you have any ideas on how to improve the algorithms, feel free to submit a pu
 
 # License
 This repository has a MIT License.
+
+# Changelog
+### Version 1.00 - 16/02/2019
+- Initial release, with Week 2 and Week 3.
