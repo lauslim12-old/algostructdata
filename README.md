@@ -11,9 +11,14 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Week 3 consists of two programs. The first program is a text transformator program that swaps the lowercase sentences to uppercase sentences, uppercase to lowercase sentences, and a switch function that transforms lowercase into uppercase and vice versa. The second program is a 3x3 matrix calculator. This program can multiply, add, and transpose two 3x3 matrices.
 * Week 4 consists of three programs. First program is text-trasformator with memory allocation, second program is a matrix calculator with memory allocation. The final and 'big' program is a system/program to rent a room. Rent-a-room is a program which uses Single Linked Lists as its main lifeblood. You can use this program to borrow rooms, delete already borrowed rooms (for now, only deleting all is possible), and display all borrowed rooms. This program illustrates the concepts of adding, deleting, and displaying the contents of Single Linked Lists. Another feature is that you cannot borrow a room which has already been borrowed by someone else. The algorithm for not being able to borrow already borrowed room feature is quite simple but it takes time to wrap your head around it (I've been there too).
 * Week 5 is an improvisation of rent-a-room program. I added a feature to delete, and approve requests to rent a room. Deleting the room is an applied concept of deleting in Linked Lists. Approving requests is just a really small feature that improves the beauty of the program.
+* Week 6 has two programs. The first program is to sort data from name, weight, and height with basic sorting algorithms like bubble sort, selection sort, and insertion sort. The second program is an improvisation of the Week 5 program. The program uses radix sort to sort the identification number that was inputted in the program.
 
 # Installations and Usage
 Copy or download the code into your Integrated Developer Environment of your choice, then build and run it. It is as simple as that.
+
+# Bugs
+* Week 6's second program radix sort is not working. I do not know why this happens, but feel free to post a pull request if you know how to solve the problem.
+* Week 6's second program is unable to insert a new data if you delete the last data in the Linked List. Feel free to post a pull request if you know how to fix this.
 
 # Contribution
 If you have any ideas on how to improve the algorithms, feel free to submit a pull request.
@@ -22,6 +27,11 @@ If you have any ideas on how to improve the algorithms, feel free to submit a pu
 This repository has a MIT License.
 
 # Changelog
+### Version 1.03 - 12/03/2019
+- Week 6 assignments added.
+- Readme.md updated.
+- Added the new "Bugs" section in Readme.md.
+
 ### Version 1.02 - 05/03/2019
 - Week 5 assignment added.
 - Readme.md updated.
