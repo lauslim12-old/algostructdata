@@ -428,11 +428,6 @@ int main() {
                             goto PilihSorting;
                         // End of Descending Sort
                         }
-
-                    default:
-                        printf("Invalid input. Enter a valid one. \n");
-                        system("pause");
-                        goto PilihSorting;
                 }
 
                 // Making a Doubly Linked List
