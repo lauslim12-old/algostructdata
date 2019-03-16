@@ -12,6 +12,7 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Week 4 consists of three programs. First program is text-trasformator with memory allocation, second program is a matrix calculator with memory allocation. The final and 'big' program is a system/program to rent a room. Rent-a-room is a program which uses Single Linked Lists as its main lifeblood. You can use this program to borrow rooms, delete already borrowed rooms (for now, only deleting all is possible), and display all borrowed rooms. This program illustrates the concepts of adding, deleting, and displaying the contents of Single Linked Lists. Another feature is that you cannot borrow a room which has already been borrowed by someone else. The algorithm for not being able to borrow already borrowed room feature is quite simple but it takes time to wrap your head around it (I've been there too).
 * Week 5 is an improvisation of rent-a-room program. I added a feature to delete, and approve requests to rent a room. Deleting the room is an applied concept of deleting in Linked Lists. Approving requests is just a really small feature that improves the beauty of the program.
 * Week 6 has two programs. The first program is to sort data from name, weight, and height with basic sorting algorithms like bubble sort, selection sort, and insertion sort. The second program is an improvisation of the Week 5 program. The program uses radix sort to sort the identification number that was inputted in the program.
+* Week 7 has a simple program that takes user's name, and 14 last grades. Then, the program will sort the data in either ascending or descending format with more advanced algorithm than Week 6's first program. The algorithms are Quick Sort, Merge Sort, and Shell Sort. The last 10 grades will be calculated and divided by 10 to show the average grade that the user gets. Finally, the program can output all the sorted data inserted into it via a Doubly Linked List.
 
 # Installations and Usage
 Copy or download the code into your Integrated Developer Environment of your choice, then build and run it. It is as simple as that.
@@ -27,6 +28,10 @@ If you have any ideas on how to improve the algorithms, feel free to submit a pu
 This repository has a MIT License.
 
 # Changelog
+### Version 1.04 - 16/03/2019
+- Week 7 assignment added.
+- Readme.md updated.
+
 ### Version 1.03 - 12/03/2019
 - Week 6 assignments added.
 - Readme.md updated.
