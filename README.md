@@ -7,14 +7,14 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Usage of C algorithms and data structure
 * Coded in a Windows 64-bit environment
 
-# Basic C Functions Used
+# Data Structures
 * File Processing
 * Pointer and Array Passing
 * Structure
 * Modular Programming
 * Linked List: Singular Linked List, Doubly Linked List, Doubly Circular Linked List
 
-# Algorithms Used
+# Algorithms
 * Basic Sorting: Bubble Sort, Selection Sort, Insertion Sort
 * Advanced Sorting: Quick Sort, Merge Sort, Shell Sort, Radix Sort
 * Searching: Sequential Search, Binary Search, Interpolation Search
