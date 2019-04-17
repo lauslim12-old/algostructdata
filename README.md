@@ -13,11 +13,13 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Structure
 * Modular Programming
 * Linked List: Singular Linked List, Doubly Linked List, Doubly Circular Linked List
+* Hash Tables
 
 # Algorithms
 * Basic Sorting: Bubble Sort, Selection Sort, Insertion Sort
 * Advanced Sorting: Quick Sort, Merge Sort, Shell Sort, Radix Sort
 * Searching: Sequential Search, Binary Search, Interpolation Search
+* Hashing
 
 # Program Descriptions
 * Week 2 consists of making a 3D-shape volume and area calculator. The results are then stored in a structure which you can call anytime with the history function. Featuring usage of pointers, and structures.
@@ -27,6 +29,7 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Week 6 has two programs. The first program is to sort data from name, weight, and height with basic sorting algorithms like bubble sort, selection sort, and insertion sort. The second program is an improvisation of the Week 5 program. The program uses radix sort to sort the identification number that was inputted in the program.
 * Week 7 has a simple program that takes user's name, and 14 last grades. Then, the program will sort the data in either ascending or descending format with more advanced algorithm than Week 6's first program. The algorithms are Quick Sort, Merge Sort, and Shell Sort. The last 10 grades will be calculated and divided by 10 to show the average grade that the user gets. Finally, the program can output all the sorted data inserted into it via a Doubly Linked List.
 * Week 8 has two programs. The first program is a very simple program to binary search a data from an array. The second big program is called 'activities'. The program allows you to display a list of data from a file, do ascending sort based on name a data from .txt file with different algorithms, search a data from a .txt file with different algorithms, add a new activity with a randomized ID to a .txt file.
+* Week 9 has a simple program that reads from a file. From there, you can search for any of the data that is in the file with the keyword being the first three characters. Then, you can add a new data or delete a data. The program is an application of hashing and usage of hash tables.
 
 # Installations and Usage
 Copy or download the code into your Integrated Developer Environment of your choice, then build and run it. It is as simple as that.
@@ -43,6 +46,10 @@ If you have any ideas on how to improve the algorithms, feel free to submit a pu
 This repository has a MIT License.
 
 # Changelog
+### Version 1.06 - 17/04/2019
+- Week 9 assignment added.
+- Readme.md updated.
+
 ### Version 1.05 - 07/04/2019
 - Week 8 assignment added.
 - Readme.md updated.
