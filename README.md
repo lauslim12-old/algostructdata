@@ -19,7 +19,7 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Basic Sorting: Bubble Sort, Selection Sort, Insertion Sort
 * Advanced Sorting: Quick Sort, Merge Sort, Shell Sort, Radix Sort
 * Searching: Sequential Search, Binary Search, Interpolation Search
-* Hashing
+* Hashing: Separate Chaining
 
 # Program Descriptions
 * Week 2 consists of making a 3D-shape volume and area calculator. The results are then stored in a structure which you can call anytime with the history function. Featuring usage of pointers, and structures.
