@@ -14,12 +14,14 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Modular Programming
 * Linked List: Singular Linked List, Doubly Linked List, Doubly Circular Linked List
 * Hash Tables
+* Stacks
+* Queue
 
 # Algorithms
 * Basic Sorting: Bubble Sort, Selection Sort, Insertion Sort
 * Advanced Sorting: Quick Sort, Merge Sort, Shell Sort, Radix Sort
 * Searching: Sequential Search, Binary Search, Interpolation Search
-* Hashing: Separate Chaining
+* Hashing: Linear Probing, Rehashing, Quadratic Probing, Separate Chaining
 
 # Program Descriptions
 * Week 2 consists of making a 3D-shape volume and area calculator. The results are then stored in a structure which you can call anytime with the history function. Featuring usage of pointers, and structures.
@@ -30,9 +32,10 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Week 7 has a simple program that takes user's name, and 14 last grades. Then, the program will sort the data in either ascending or descending format with more advanced algorithm than Week 6's first program. The algorithms are Quick Sort, Merge Sort, and Shell Sort. The last 10 grades will be calculated and divided by 10 to show the average grade that the user gets. Finally, the program can output all the sorted data inserted into it via a Doubly Linked List.
 * Week 8 has two programs. The first program is a very simple program to binary search a data from an array. The second big program is called 'activities'. The program allows you to display a list of data from a file, do ascending sort based on name a data from .txt file with different algorithms, search a data from a .txt file with different algorithms, add a new activity with a randomized ID to a .txt file.
 * Week 9 has a simple program that reads from a file. From there, you can search for any of the data that is in the file with the keyword being the first three characters. Then, you can add a new data or delete a data. The program is an application of hashing and usage of hash tables.
+* Week 10 has two programs for stack and queue data structure. The stack one is a parenthesis expression checker (it checks "({[]})" symbols). A valid expression is an expression that has the same amount of opening and closing symbols, meaning that it is balanced in every way possible. Characters like 1, a, C, are not valid parenthesis characters! Exit the program by typing "-1" in the program when it asks for an expression. The second program is an application of queue data structure. It takes any numbers and if the queue is empty, then the program will enqueue that number, that number of times. An example of this would be if you typed 3 into the program and the queue is empty, then the program will output "333". If the queue is not empty, then there would be an if statement. If the number that you put is less than what is in the front of the queue, then the program will dequeue the numbers in the queue that number of times. Example, if there is "333" in the queue and you put 2 in the program, then the program will dequeue the 3 two times, so it results in "3". If the number you put is larger than the front of the queue, or same as in the front of the queue, then the program will enqueue the number the front amount of times. Example, if there is "333" in the queue and you put 4 in the program, then the program will output "333444". I know this week is a bit confusing, but it is actually really simple once you get your head wrapped around it.
 
 # Installations and Usage
-Copy or download the code into your Integrated Developer Environment of your choice, then build and run it. It is as simple as that.
+Copy or download the code into your Integrated Developer Environment of your choice, then build and run it. It is as simple as that. Don't forget to copy the text file to the directory of the .c and or the executable file, so the program does not get any segmentation faults.
 
 # Bugs
 * Week 6's second program radix sort is not working. I do not know why this happens, but feel free to post a pull request if you know how to solve the problem.
@@ -46,6 +49,10 @@ If you have any ideas on how to improve the algorithms, feel free to submit a pu
 This repository has a MIT License.
 
 # Changelog
+### Version 1.07 - 20/04/2019
+- Week 10 assignment added.
+- Readme.md updated.
+
 ### Version 1.06 - 17/04/2019
 - Week 9 assignment added.
 - Readme.md updated.
