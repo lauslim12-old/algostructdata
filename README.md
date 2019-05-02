@@ -33,6 +33,7 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Week 8 has two programs. The first program is a very simple program to binary search a data from an array. The second big program is called 'activities'. The program allows you to display a list of data from a file, do ascending sort based on name a data from .txt file with different algorithms, search a data from a .txt file with different algorithms, add a new activity with a randomized ID to a .txt file.
 * Week 9 has a simple program that reads from a file. From there, you can search for any of the data that is in the file with the keyword being the first three characters. Then, you can add a new data or delete a data. The program is an application of hashing and usage of hash tables.
 * Week 10 has two programs for stack and queue data structure. The stack one is a parenthesis expression checker (it checks "({[]})" symbols). A valid expression is an expression that has the same amount of opening and closing symbols, meaning that it is balanced in every way possible. Characters like 1, a, C, are not valid parenthesis characters! Exit the program by typing "-1" in the program when it asks for an expression. The second program is an application of queue data structure. It takes any numbers and if the queue is empty, then the program will enqueue that number, that number of times. An example of this would be if you typed 3 into the program and the queue is empty, then the program will output "333". If the queue is not empty, then there would be an if statement. If the number that you put is less than what is in the front of the queue, then the program will dequeue the numbers in the queue that number of times. Example, if there is "333" in the queue and you put 2 in the program, then the program will dequeue the 3 two times, so it results in "3". If the number you put is larger than the front of the queue, or same as in the front of the queue, then the program will enqueue the number the front amount of times. Example, if there is "333" in the queue and you put 4 in the program, then the program will output "333444". I know this week is a bit confusing, but it is actually really simple once you get your head wrapped around it.
+* Week 11 has a program that is an application of Balancing Binary Tree Data Structure. The program accepts numbers to be inserted, then the program will store it in the tree data structure. Then, the program can search for the data, or display the data in the preorder, inorder, or postorder format.
 * Reference Programs are simply programs/code gists that I use to test some feature, draft a program, or to debug something. Feel free to check it out, it probably would be useful.
 
 # Installations and Usage
@@ -50,6 +51,10 @@ If you have any ideas on how to improve the algorithms, feel free to submit a pu
 This repository has a MIT License.
 
 # Changelog
+### Version 1.08 - 02/05/2019
+- Week 11 assignment added.
+- Readme.md updated.
+
 ### Version 1.07 - 20/04/2019
 - Week 10 assignment added.
 - "Reference Programs" folder added.
