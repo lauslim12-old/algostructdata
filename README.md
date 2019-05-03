@@ -16,6 +16,7 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Hash Tables
 * Stacks
 * Queue
+* Tree: Binary Balancing Tree, AVL Tree, Binary Search Tree
 
 # Algorithms
 * Basic Sorting: Bubble Sort, Selection Sort, Insertion Sort
