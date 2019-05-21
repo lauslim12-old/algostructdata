@@ -17,8 +17,9 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Hash Tables
 * Stack
 * Queue
-* Tree: Binary Balancing Tree, AVL Tree, Binary Search Tree
+* Tree: Binary Balancing Tree, AVL Tree, Binary Search Tree, Spanning Tree
 * Disjoint Set
+* Graph (Adjacency Matrix)
 
 # Algorithms
 * Basic Sorting: Bubble Sort, Selection Sort, Insertion Sort
@@ -28,6 +29,9 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Union-Find Disjoint Set
 * Breadth First Search, Depth First Search
 * Topological Sort
+* Travelling Salesman Problem
+* Dijkstra Shortest Path Algorithm
+* Prim's and Kruskal's Minimum Spanning Tree Algorithm
 
 # Program Descriptions
 * Week 2 consists of making a 3D-shape volume and area calculator. The results are then stored in a structure which you can call anytime with the history function. Featuring usage of pointers, and structures.
@@ -42,6 +46,7 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Week 11 has a program that is an application of Balancing Binary Tree Data Structure. The program accepts numbers to be inserted, then the program will store it in the tree data structure. Then, the program can search for the data, or display the data in the preorder, inorder, or postorder format.
 * Week 12 has a program that takes inputs in form of cities/towns. Then, using Union-Find Disjoint Set Algorithm, you can connect and merge the towns to be in one set. The program is also coded with a checker - so you can check whether two towns have already been connected or not.
 * Week 13 has three programs. The first and the second program are simply programs to show how BFS and DFS works with adjacency matrix. The third program, Subject Sorter, is a program that takes any amount of subjects. The subjects are then connected with each other (which has to be learned before the next? kind of way), then the program will sort the subjects with Topological Sort Algorithm. The program will then display the results of the sorting (which has to be learned first before the other subject is learned).
+* Week 14 has three programs. The first program is to demonstrate the Travelling Salesman Problem and its solution, using TSP Algorithm. The second program is to demonstrate Dijkstra's Algorithm. The program accepts input of "source#destination#weight", and it will continue to make new nodes in the undirected graph. Program will stop once the user typed -#-#0, and then it will output the shortest path between the nodes that are already made. The third program is a demonstration of MST using Kruskal and Prim Algorithm. The input is a graph in the form of adjacency matrix.
 
 # Installations and Usage
 Copy or download the code into your Integrated Developer Environment of your choice, then build and run it. It is as simple as that. Don't forget to copy the text file to the directory of the .c and or the executable file, so the program does not get any segmentation faults.
@@ -58,6 +63,12 @@ If you have any ideas on how to improve the algorithms, feel free to submit a pu
 This repository has a MIT License.
 
 # Changelog
+### Version 2.00 (COMPLETE) - 21/05/2019
+- Week 14 assignment added.
+- Readme.md updated.
+- All weekly challenges in this subject (Algorithms and Data Structures) in my university are finally solved in this update. I don't know whether I will add my final project here or not.
+- This repository's basic contents are complete. If there is any update, then it is to simplify the algorithm and/or to fix bugs that the programs may have. Another possibility of update is adding my final project to this repository.
+
 ### Version 1.10 - 18/05/2019
 - Week 13 assignment added.
 - Readme.md updated.
