@@ -22,6 +22,7 @@ My laboratory works/assignments for Algorithms and Data Structures. This whole r
 * Graph (Adjacency Matrix)
 
 # Algorithms
+* Linked List Manipulations
 * Basic Sorting: Bubble Sort, Selection Sort, Insertion Sort
 * Advanced Sorting: Quick Sort, Merge Sort, Shell Sort, Radix Sort
 * Searching: Sequential Search, Binary Search, Interpolation Search
